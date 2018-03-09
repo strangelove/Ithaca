@@ -1,4 +1,8 @@
+# Poject specific ignores
+build
+package-lock.json
 
+node_modules
 # Created by https://www.gitignore.io/api/osx
 
 ### OSX ###
